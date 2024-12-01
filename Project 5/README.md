@@ -96,9 +96,6 @@ myList = [7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2]  # Default sequence
 
 ## Authors
 
-- **[Fozhan Babaeiyan Gh]**: Debugged LRU algorithm, Documented the project and prepared the final report.
-- **[My Lu]**: Implemented FIFO algorithm, handled testing, Documented the project and prepared the final report.
+- **Fozhan Babaeiyan Gh**: Debugged LRU algorithm, Documented the project and prepared the final report.
+- **My Lu**: Implemented FIFO algorithm, handled testing, Documented the project and prepared the final report.
 
-```
-
-```
